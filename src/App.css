@@ -1,0 +1,119 @@
+*{padding:0;
+  margin: 0;
+  text-decoration: none;  
+  box-sizing: border-box;
+justify-content: center;
+}
+
+nav{
+  align-items: center;
+  padding: 15px 10%;
+  background-color: rgb(245, 204, 204);
+  width: 100%;
+  height: 23%;
+}
+ .about-container{
+  background-color: #dfdfdf;
+ }
+ 
+.about{
+  
+  display: flex;
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+  font-size: 21px;
+  color: #123c69;
+  font-family: Verdana;
+  MARGIN-left: 15%;
+  MARGIN-right: 15%;
+  margin-top:4%;}
+
+.navbar{
+  font-family: ink free;
+  font-weight: 500;
+  font-size: 15px;
+  color: #fff5d7;
+  font-size: x-large;
+  border:8px solid black;
+}
+
+a:link{ color: #123c69}
+a:visited{ color: #ac3b61}
+a:link:hover{ color:#ac3b61 }
+
+.article{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  font-family: Georgia;
+  padding: 10px;
+  flex-wrap: wrap;
+  gap: 16px;
+  }
+
+.article-container{
+  text-align: center;
+  border: black 2px;
+  border-style: dotted;
+  justify-content: center;
+  height: 145px;
+  padding: 10px 10px 10px 10px;
+width: 275px;
+  background-color: cornsilk;
+}
+
+.img{
+  margin-top: 40px;
+  width: 1270px;
+  height: 480px;
+  margin-left:51px;
+}
+
+.content{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    color: #123c69;
+    text-align: justify;
+    font-size: 18px;
+    text-indent: 35px;
+    line-break: strict;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+section{
+background-image: url("https://i.pinimg.com/originals/e7/b9/6f/e7b96fa928358f98574f916d94ff4df8.jpg");
+height: 600px;
+}
+.contact{
+  background-image: url("https://i.pinimg.com/originals/e7/b9/6f/e7b96fa928358f98574f916d94ff4df8.jpg");
+  background-size: size;
+  margin-left: 25px;
+  margin-top: 21px;
+  width:96%;
+  height: 536px;
+  text-align: center;
+  font-family: oswald;
+  border: 1px black;
+}
+
+.name{
+  font-style: italic;
+}
+
+.comment{
+  font-family: Cambria;
+  width: 450px;
+}
+
+.goodbye{
+  text-align: center;
+  font-size: 21px;
+  color: #123c69;
+  font-family: Verdana;
+  MARGIN-left: 15%;
+  MARGIN-right: 15%;
+ 
+}
+

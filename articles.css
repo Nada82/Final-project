@@ -1,0 +1,41 @@
+
+#container{
+    padding-left:10%;
+    padding-right: 10%;
+    margin: 0;
+    width: 100%;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;}
+
+h1{ text-align: center;
+color: #ac3b61;}
+p{ text-align: center;}
+
+.shopping-cart {
+    width: 750px;
+    height: 423px;
+    margin: 80px auto;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+    border-radius: 6px;}
+
+.table
+    { margin: 0px auto; }
+
+#qtity{
+    width: 20px;
+}
+   
+
+ .footer-container{
+    position: static;
+    bottom: 0;
+   justify-content: center;
+   bottom: 0px;
+   left: 0px;
+   right: 0px;
+   margin-bottom: 0px;
+}
